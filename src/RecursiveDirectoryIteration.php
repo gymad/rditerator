@@ -2,6 +2,10 @@
 
 namespace gymad\rditerator;
 
+use Exception;
+use RecursiveDirectoryIterator;
+use RecursiveIteratorIterator;
+
 /**
  * Description of RecursiveDirectoryIteration
  *
