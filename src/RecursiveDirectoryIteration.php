@@ -1,6 +1,6 @@
 <?php
 
-namespace gymadarasz\rditerator;
+namespace gymad\rditerator;
 
 /**
  * Description of RecursiveDirectoryIteration
